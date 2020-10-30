@@ -12,3 +12,4 @@ Future Improvements:
 1. Work with howler to stop the sound from repeating on key hold.
 2. Create keys for another octave to provide more range of sounds.
 3. Provide notes for simple songs that can be played.
+Olivia made a change
